@@ -1,0 +1,43 @@
+     .blg1 h1 {
+            text-align: center;
+        }
+
+        h2 {
+            color: #3366cc;
+            
+        }
+        h4 {
+            color: #e67373;
+           
+          }
+
+        h3 {
+            color: #4a2f8f;
+            text-shadow: 0 0 1px #fff,
+                         0 0 2px #fff, 
+                         0 0 4px #fff;
+      
+        }
+         p{
+            display: inline;
+            background-repeat :no-repeat;
+            transition :all 500ms ease-in-out;
+        }
+        .v2 {
+            background-position :left;
+              background-size: 0% 100%;
+             background-image: linear-gradient(yellow, yellow);
+        }
+        .v2 p:hover{
+          
+            background-size: 100% 100%
+        }
+        
+        
+       .l1 {
+            color: #ea00d2;
+        }
+        
+.amg{
+        line-height: 205%;
+   }
